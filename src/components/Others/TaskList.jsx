@@ -13,7 +13,7 @@ const TaskList = () => {
             </div>
             <div className='  h-full w-[300px] bg-yellow-600 rounded-xl  '>
             </div>
-            <div className='  h-full w-[300px] bg-yellow-600 rounded-xl  '>
+            <div className='  h-full w-[300px] bg-blue-500 rounded-xl  '>
             </div>
             
             
