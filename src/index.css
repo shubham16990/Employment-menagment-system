@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 *{
-   color: #fff;
+color: #fff;
 }
 
 /* html,
@@ -12,4 +12,12 @@ body{
 
 body{
     background-color: #111;
+}
+
+#taslList::-webkit-scrollbar{
+    display: none;
+}
+
+#task::-webkit-scrollbar{
+    display: none;
 }
